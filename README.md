@@ -23,8 +23,8 @@ Anaconda - Python 3.7
 
 ## Program:
 ```
-# Developed By: 212220230036
-# Register Number: PRASHETHA R
+# Developed By: 212220230017
+# Register Number: A.FAWZIYA
 import cv2
 import matplotlib.pyplot as plt
 
@@ -72,10 +72,9 @@ cv2.destroyAllWindows()
 
 ## Output:
 ### Input Grayscale Image and Color Image
-<br>
-<br>
-<br>
-<br>
+![Untitled7 - Jupyter Notebook - Google Chrome 30-04-2022 23_26_35](https://user-images.githubusercontent.com/75235022/166116977-f7048a35-a706-4688-a9a8-1414a312010e.png)
+![Untitled7 - Jupyter Notebook - Google Chrome 30-04-2022 23_26_43](https://user-images.githubusercontent.com/75235022/166116984-5f863636-da93-4496-88c4-42870802732d.png)
+
 
 ### Histogram of Grayscale Image and any channel of Color Image
 <br>
